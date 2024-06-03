@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/groups/angularcommunityperu">
-    <img width="400" src="https://i.ibb.co/jhcvbqz/Group-4.png">
+    <img width="400" src="https://i.ibb.co/jhcvbqz/Group-4.png?v=1">
   </a>
 </p>
 
